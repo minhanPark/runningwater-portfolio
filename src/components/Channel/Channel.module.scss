@@ -1,0 +1,18 @@
+.wrapper {
+  padding: 20px 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+  grid-gap: 10px;
+}
+
+@media all and (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: repeat(auto-fill, minmax(40%, 1fr));
+  }
+}
+
+@media all and (max-width: 400px) {
+  .wrapper {
+    grid-template-columns: repeat(auto-fill, minmax(90%, 1fr));
+  }
+}

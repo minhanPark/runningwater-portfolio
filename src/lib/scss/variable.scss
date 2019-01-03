@@ -1,0 +1,18 @@
+// Color
+
+$main-blue: #4bcffa;
+$main-white: #f1f2f6;
+$main-black: #2f3542;
+$Dark-gray: #dfe4ea;
+
+// Media-query breakpoints
+
+$phone: 480px;
+$tablet: 768px;
+$desktop: 1024px;
+
+//MixIn
+
+@mixin boxShadow {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}

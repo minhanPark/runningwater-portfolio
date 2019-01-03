@@ -1,0 +1,13 @@
+@import "lib/scss/variable.scss";
+
+.wrapper {
+  background-color: $main-white;
+  min-height: 100%;
+  color: black;
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 66px 1fr 40px;
+}

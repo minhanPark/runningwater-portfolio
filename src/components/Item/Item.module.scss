@@ -1,0 +1,67 @@
+@import "lib/scss/variable.scss";
+
+.listWrapper {
+  position: relative;
+  box-sizing: border-box;
+}
+.listWrapper:before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
+.link {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 0 0.5px 0 0 #ffffff inset, 0 1px 2px 0 #b3b3b3;
+}
+.texts {
+  background-color: $main-black;
+  color: $main-white;
+  opacity: 0.8;
+  padding: 8px;
+  position: absolute;
+  width: calc(100% - 16px);
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%, -50%);
+  .tagText {
+    font-size: 0.9rem;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 2px;
+  }
+  .headerText {
+    margin-top: 12px;
+    font-size: 1.4rem;
+    font-weight: 700;
+  }
+}
+.link:hover .texts {
+  background-color: $main-blue;
+  opacity: 1;
+}
+@media all and (max-width: 768px) {
+  .texts {
+    .headerText {
+      font-size: 1.3rem;
+    }
+  }
+}
+
+@media all and (max-width: 400px) {
+  .texts {
+    .headerText {
+      font-size: 1.15rem;
+    }
+  }
+}

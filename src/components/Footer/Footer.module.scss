@@ -1,0 +1,21 @@
+@import "lib/scss/variable.scss";
+
+.wrapper {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $Dark-gray;
+  box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.3);
+  .text {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: $main-black;
+  }
+}
+
+@media all and (max-width: $phone) {
+  .text {
+    font-size: 1rem;
+  }
+}

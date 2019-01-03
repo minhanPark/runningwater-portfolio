@@ -1,0 +1,26 @@
+@import "lib/scss/variable.scss";
+.backGround {
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $main-blue;
+  height: 50px;
+  @include boxShadow;
+}
+.profileImage {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  @include boxShadow;
+}
+.nav {
+  display: flex;
+}
+.link {
+  text-decoration: none;
+  padding: 4px 8px;
+  color: $main-white;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
