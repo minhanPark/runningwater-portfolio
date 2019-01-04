@@ -13,7 +13,7 @@ class App extends Component {
       <div className={styles.wrapper}>
         <Nav />
         <Switch>
-          <Route exact path="/" component={Done} />
+          <Route exact path="/runningwater-portfolio" component={Done} />
           <Route path="/channel" component={Channel} />
           <Route component={NotFound} />
         </Switch>

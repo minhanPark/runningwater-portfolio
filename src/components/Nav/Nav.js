@@ -13,7 +13,11 @@ class Nav extends Component {
     return (
       <div className={styles.backGround}>
         <div>
-          <NavLink exact to="/" className={styles.profile}>
+          <NavLink
+            exact
+            to="/runningwater-portfolio"
+            className={styles.profile}
+          >
             <img src={profile} className={styles.profileImage} alt="profile" />
           </NavLink>
         </div>
@@ -22,7 +26,7 @@ class Nav extends Component {
             <li>
               <NavLink
                 exact
-                to="/"
+                to="/runningwater-portfolio"
                 className={styles.link}
                 activeStyle={activeStyle}
               >
