@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/bitcoin.b5ecc35f.jpg"
   },
   {
-    "revision": "2f326c82d6a9c38c5a40",
+    "revision": "60820a1619e8c9253f3c",
     "url": "/runningwater-portfolio/static/css/main.8d647b25.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/animory.6d55812a.png"
   },
   {
-    "revision": "2f326c82d6a9c38c5a40",
-    "url": "/runningwater-portfolio/static/js/main.2f326c82.chunk.js"
+    "revision": "60820a1619e8c9253f3c",
+    "url": "/runningwater-portfolio/static/js/main.60820a16.chunk.js"
   },
   {
     "revision": "afa427f2a96659ca473c87a8d90e65f3",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/profileApp.f163c91a.png"
   },
   {
-    "revision": "f24e22c91832171c7b579758089b6435",
+    "revision": "a1019efe0e292423b0c1349741ec2349",
     "url": "/runningwater-portfolio/index.html"
   }
 ];

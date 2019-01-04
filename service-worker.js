@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/runningwater-portfolio/precache-manifest.fbc53498876049cd4048515ea534d7fd.js"
+  "/runningwater-portfolio/precache-manifest.fd4ca8d135361ecad37113da039ac455.js"
 );
 
 workbox.clientsClaim();
