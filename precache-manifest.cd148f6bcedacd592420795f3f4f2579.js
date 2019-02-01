@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b5ecc35f52eace9018c5d25db89e46ff",
-    "url": "/runningwater-portfolio/static/media/bitcoin.b5ecc35f.jpg"
+    "revision": "afa427f2a96659ca473c87a8d90e65f3",
+    "url": "/runningwater-portfolio/static/media/bookClip.afa427f2.png"
   },
   {
-    "revision": "60820a1619e8c9253f3c",
-    "url": "/runningwater-portfolio/static/css/main.8d647b25.chunk.css"
+    "revision": "15fe1996e5d1d19b2623",
+    "url": "/runningwater-portfolio/static/css/main.d1c4efbc.chunk.css"
   },
   {
-    "revision": "a776fdacd836fbab4eef",
-    "url": "/runningwater-portfolio/static/js/1.a776fdac.chunk.js"
+    "revision": "1318f82020a9ace4fbe6",
+    "url": "/runningwater-portfolio/static/js/1.1318f820.chunk.js"
   },
   {
     "revision": "42ff66d8bcc6425f4454",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/animory.6d55812a.png"
   },
   {
-    "revision": "60820a1619e8c9253f3c",
-    "url": "/runningwater-portfolio/static/js/main.60820a16.chunk.js"
+    "revision": "b5ecc35f52eace9018c5d25db89e46ff",
+    "url": "/runningwater-portfolio/static/media/bitcoin.b5ecc35f.jpg"
   },
   {
-    "revision": "afa427f2a96659ca473c87a8d90e65f3",
-    "url": "/runningwater-portfolio/static/media/bookClip.afa427f2.png"
+    "revision": "15fe1996e5d1d19b2623",
+    "url": "/runningwater-portfolio/static/js/main.15fe1996.chunk.js"
   },
   {
     "revision": "08814d819e6186496bfae9cb6c80cc47",
@@ -72,7 +72,11 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/profileApp.f163c91a.png"
   },
   {
-    "revision": "a1019efe0e292423b0c1349741ec2349",
+    "revision": "e98f974f01fa1741a074822ad1467e88",
+    "url": "/runningwater-portfolio/static/media/readybe.e98f974f.png"
+  },
+  {
+    "revision": "cfe3d2dc176cd093c8be16b1394f9c36",
     "url": "/runningwater-portfolio/index.html"
   }
 ];
