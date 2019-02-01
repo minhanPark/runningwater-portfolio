@@ -8,6 +8,7 @@ import responsiveSingle from "./responsiveSingle.png";
 import timer from "./timer.jpg";
 import webCrawling from "./webCrawling.jpg";
 import profileApp from "./profileApp.png";
+import readybe from "./readybe.png";
 
 export {
   animory,
@@ -19,5 +20,6 @@ export {
   responsiveSingle,
   timer,
   webCrawling,
-  profileApp
+  profileApp,
+  readybe
 };

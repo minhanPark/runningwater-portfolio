@@ -10,13 +10,28 @@ import {
   responsiveSingle,
   timer,
   webCrawling,
-  profileApp
+  profileApp,
+  readybe
 } from "images/items";
 
 const initialState = {
   value: "",
   viewList: [],
   totalLists: [
+    {
+      header: "레디비",
+      imgSrc: readybe,
+      tags: [
+        "React-native",
+        "Redux",
+        "Expo",
+        "Utility",
+        "Framework",
+        "Javascript"
+      ],
+      link:
+        "https://play.google.com/store/apps/details?id=com.runningwater.readybe"
+    },
     {
       header: "애니모리",
       imgSrc: animory,
