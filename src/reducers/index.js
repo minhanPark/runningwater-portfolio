@@ -29,8 +29,7 @@ const initialState = {
         "Framework",
         "Javascript"
       ],
-      link:
-        "https://play.google.com/store/apps/details?id=com.runningwater.readybe"
+      link: "https://github.com/minhanPark/todo-timer"
     },
     {
       header: "애니모리",
