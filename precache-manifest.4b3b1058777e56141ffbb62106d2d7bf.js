@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/bookClip.afa427f2.png"
   },
   {
-    "revision": "914eb7a85f333d705636",
-    "url": "/runningwater-portfolio/static/css/main.d1c4efbc.chunk.css"
+    "revision": "f86b9505930fa15c7a12",
+    "url": "/runningwater-portfolio/static/css/main.b534cb7c.chunk.css"
   },
   {
-    "revision": "1318f82020a9ace4fbe6",
-    "url": "/runningwater-portfolio/static/js/1.1318f820.chunk.js"
+    "revision": "0def82311fa19eb83858",
+    "url": "/runningwater-portfolio/static/js/1.0def8231.chunk.js"
   },
   {
     "revision": "42ff66d8bcc6425f4454",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/bitcoin.b5ecc35f.jpg"
   },
   {
-    "revision": "914eb7a85f333d705636",
-    "url": "/runningwater-portfolio/static/js/main.914eb7a8.chunk.js"
+    "revision": "f86b9505930fa15c7a12",
+    "url": "/runningwater-portfolio/static/js/main.f86b9505.chunk.js"
   },
   {
     "revision": "08814d819e6186496bfae9cb6c80cc47",
@@ -76,7 +76,11 @@ self.__precacheManifest = [
     "url": "/runningwater-portfolio/static/media/readybe.e98f974f.png"
   },
   {
-    "revision": "8271be1cf5f6d1a1fd146bf6b0fbd996",
+    "revision": "ae9d74f72db49b55fcf5195888cd748e",
+    "url": "/runningwater-portfolio/static/media/nodejsnote.ae9d74f7.png"
+  },
+  {
+    "revision": "215b496245435901c63608bab48a9454",
     "url": "/runningwater-portfolio/index.html"
   }
 ];
