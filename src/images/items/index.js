@@ -9,6 +9,7 @@ import timer from "./timer.jpg";
 import webCrawling from "./webCrawling.jpg";
 import profileApp from "./profileApp.png";
 import readybe from "./readybe.png";
+import nodejsnote from "./nodejsnote.png";
 
 export {
   animory,
@@ -21,5 +22,6 @@ export {
   timer,
   webCrawling,
   profileApp,
-  readybe
+  readybe,
+  nodejsnote
 };

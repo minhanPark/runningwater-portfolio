@@ -11,13 +11,20 @@ import {
   timer,
   webCrawling,
   profileApp,
-  readybe
+  readybe,
+  nodejsnote
 } from "images/items";
 
 const initialState = {
   value: "",
   viewList: [],
   totalLists: [
+    {
+      header: "Node.js note app",
+      imgSrc: nodejsnote,
+      tags: ["Nodejs", "Express", "MySQL", "Pug", "Javascript", "aws"],
+      link: "http://nodejsnote.ga/"
+    },
     {
       header: "레디비",
       imgSrc: readybe,
